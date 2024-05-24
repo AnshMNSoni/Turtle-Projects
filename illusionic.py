@@ -6,6 +6,7 @@ turtle.bgcolor("black")
 tt.penup()
 tt.goto(200, 0)
 tt.pendown()
+tt.hideturtle()
 
 def pattern():
     count = 0
