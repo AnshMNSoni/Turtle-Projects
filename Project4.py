@@ -12,6 +12,6 @@ for i in range(300):
     tt.pensize(i/100 + 1)
     tt.pencolor(clr[i%6])
     tt.forward(i)
-    tt.right(39)
+    tt.right(30)
     
 turtle.done()
