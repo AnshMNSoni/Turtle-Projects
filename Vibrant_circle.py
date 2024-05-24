@@ -1,5 +1,4 @@
 # Vibrant Circle:
-
 import turtle 
 
 tt = turtle.Turtle()
