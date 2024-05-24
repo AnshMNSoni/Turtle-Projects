@@ -13,7 +13,7 @@ tt.pendown()
 tt.forward(300)
 
 tt.begin_fill()
-for i in range(23):
+for i in range(0, 23):
     tt.left(165)
     tt.forward(300)
 tt.end_fill()
