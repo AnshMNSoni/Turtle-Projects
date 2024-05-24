@@ -21,7 +21,7 @@ for i in range(6, 250, 6):
         tt.pencolor(clr[j])
         tt.forward(i)
         tt.right(60)
-    
+       
     # Move the pen to another position
     tt.penup()
     tt.left(120)
