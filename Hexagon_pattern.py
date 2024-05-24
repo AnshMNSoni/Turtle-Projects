@@ -10,6 +10,7 @@ tt.penup()
 tt.goto(0, 200)
 tt.back(100)
 tt.pendown()
+tt.hideturtle()
 
 clr = ["blue", "pink", "red", "yellow", "orange", "green"]
 
